@@ -1,6 +1,6 @@
-# Analysis Code for: [Insert Paper Title Here]
+# Analysis Code for: [Cis–trans divergence in the regulatory architectures of MYBL2 and MYB underlies distinct transcriptional networks in immuno-metabolic traits]
 
-This repository contains the source code used for the cis-eQTL, colocalization, and Mendelian Randomization (MR) analyses presented in the manuscript **"[Insert Paper Title]"**.
+This repository contains the source code used for the cis-eQTL, colocalization, and Mendelian Randomization (MR) analyses presented in the manuscript **"[Cis–trans divergence in the regulatory architectures of MYBL2 and MYB underlies distinct transcriptional networks in immuno-metabolic traits]"**.
 
 ## 📂 Repository Structure
 
@@ -30,9 +30,14 @@ To reproduce the analysis, the following software and R packages are required:
     * `MRPRESSO`
     * `data.table`, `dplyr`, `ggplot2`
 
-## 🚀 Usage
+## 📂 Data Availability
 
-### Step 1: cis-eQTL Analysis
-Run the bash script to identify significant eQTLs.
-```bash
-bash scripts/01_gcta_eqtl.sh
+Due to file size limitations, the raw GWAS summary statistics and Reference Panel files are not included in this repository.
+
+To reproduce the analysis:
+
+Download the GWAS summary statistics from the GWAS Catalog (Accession IDs provided in metadata/metadata_*_mr.csv).
+
+Download the 1000 Genomes Phase 3 Reference Panel.
+
+Place them in the data/ directory following the structure described in the metadata files.
