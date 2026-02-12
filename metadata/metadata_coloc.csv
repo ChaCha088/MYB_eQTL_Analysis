@@ -1,0 +1,4 @@
+trait_label, gene_label,gwas_file,eqtl_file,gwas_n,eqtl_n
+Metabolic syndrome,	MYB,GCST90444487_rs7134150_1mb.txt,	MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma,400000,373
+HDL,MYB,GCST90179147_rs7134150_1mb.txt,	MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma,361194,373
+Triglycerides to total lipids ratio in VLDL,MYB,GCST90092917_rs7134150_1mb.txt,MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma,115082,373

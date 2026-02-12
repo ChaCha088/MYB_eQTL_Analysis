@@ -1,0 +1,4 @@
+exp_label,out_label,exp_file,out_file,n_exp,n_out
+MYB,Metabolic syndrome,	MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma,GCST90444487.h.tsv.gz,373,400000
+MYB,HDL	MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma,GCST90179147.h.tsv.gz,373,361194
+MYB,Triglycerides to total lipids ratio in VLDL,MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma,GCST90092917.h.tsv.gz,373,115082
