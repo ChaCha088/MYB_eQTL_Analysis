@@ -1,0 +1,7 @@
+exp_file	out_file	n_exp	n_out	exp_label	out_label
+/home/CSE_20210404/gwas/MYBL2.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	/home/CSE_20210404/gwas/trait/GCST90479892.h.tsv.gz	373	611168 	MYBL2	Type 2 diabetes
+/home/CSE_20210404/gwas/MYBL2.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	/home/CSE_20210404/gwas/trait/GCST90476439.h.tsv.gz	373	391797 	MYBL2	Triglyceride
+/home/CSE_20210404/gwas/MYBL2.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	/home/CSE_20210404/gwas/trait/GCST90013976.h.tsv.gz	373	396621 	MYBL2	White blood cell count
+/home/CSE_20210404/gwas/MYBL2.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	/home/CSE_20210404/gwas/trait/GCST90479633.h.tsv.gz	373	601780 	MYBL2	HDL
+/home/CSE_20210404/gwas/MYBL2.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	/home/CSE_20210404/gwas/trait/GCST90479626.h.tsv.gz	373	601780 	MYBL2	Glucose
+/home/CSE_20210404/gwas/MYBL2.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	/home/CSE_20210404/gwas/trait/GCST90691829.h.tsv.gz	373	401344 	MYBL2	Reticulocyte percentage
