@@ -1,7 +1,7 @@
 exp_file	out_file	n_exp	n_out	exp_label	out_label
-/home/CSE_20210404/gwas/MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	/home/CSE_20210404/gwas/trait/GCST90444487_rs7134150_1mb.txt	373	400000	MYB	Metabolic syndrome
-/home/CSE_20210404/gwas/MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	/home/CSE_20210404/gwas/trait/GCST90179147_rs7134150_1mb.txt	373	361194	MYB	HDL
-/home/CSE_20210404/gwas/MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	/home/CSE_20210404/gwas/trait/GCST90092917_rs7134150_1mb.txt	373	115082	MYB	Triglycerides to total lipids ratio in VLDL
-/home/CSE_20210404/gwas/MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	/home/CSE_20210404/gwas/trait/GCST90092927_rs12314390_1mb.txt	373	115082	MYB	Cholesterol to total lipids ratio in VLDL
-/home/CSE_20210404/gwas/MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	/home/CSE_20210404/gwas/trait/GCST90295949_rs11045247_1mb.txt	373	402398	MYB	Triglyceride to HDL cholesterol ratio
-/home/CSE_20210404/gwas/MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	/home/CSE_20210404/gwas/trait/GCST90295949_rs12314390_1mb.txt	373	402398	MYB	Triglyceride to HDL cholesterol ratio
+MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	GCST90444487_rs7134150_1mb.txt	373	400000	MYB	Metabolic syndrome
+MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	GCST90179147_rs7134150_1mb.txt	373	361194	MYB	HDL
+MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	GCST90092917_rs7134150_1mb.txt	373	115082	MYB	Triglycerides to total lipids ratio in VLDL
+MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	GCST90092927_rs12314390_1mb.txt	373	115082	MYB	Cholesterol to total lipids ratio in VLDL
+MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	GCST90295949_rs11045247_1mb.txt	373	402398	MYB	Triglyceride to HDL cholesterol ratio
+MYB.GW.E-GEUV-3.EUR.MAF005.HWE1e-06.mlma	GCST90295949_rs12314390_1mb.txt	373	402398	MYB	Triglyceride to HDL cholesterol ratio
